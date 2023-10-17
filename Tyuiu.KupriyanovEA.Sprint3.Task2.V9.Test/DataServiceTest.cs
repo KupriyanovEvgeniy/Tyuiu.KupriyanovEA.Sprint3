@@ -12,7 +12,7 @@ namespace Tyuiu.KupriyanovEA.Sprint3.Task2.V9.Test
         public void ValidGetSumSeries()
         {
             DataService ds = new DataService();
-            double value = 5;
+            int value = 5;
             int startValue = 1;
             int stopValue = 10;
 
