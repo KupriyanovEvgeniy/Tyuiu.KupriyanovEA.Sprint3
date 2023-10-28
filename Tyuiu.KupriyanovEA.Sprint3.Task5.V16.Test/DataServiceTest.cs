@@ -9,7 +9,7 @@ namespace Tyuiu.KupriyanovEA.Sprint3.Task5.V16.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidGetSumSumSeries()
         {
             DataService ds = new DataService();
 
